@@ -32,3 +32,27 @@ print(yueyue.age)
 # 需要注意的是成员函数的调用，没有传递进去参数
 yueyue.dohomework()
 
+print("*" * 20)
+
+
+class Teacher():
+    name = "dana"
+    age = 19
+    def say(self):
+        self.name = "yaoyao"
+        self.age = 17
+        print("my name is {0}".format(self.name))
+        print("my age is {0}".format(self.age))
+
+    def sayagain():
+        print(__class__.name)
+        print(__class__.age)
+        print("nice to meet you")
+
+t = Teacher()
+t.say()
+# 调用绑定类函数需要用类名来调用
+Teacher.sayagain()
+
+
+
