@@ -1,0 +1,27 @@
+DEBUG:root:this is a debug log.
+INFO:root:this is a info log.
+WARNING:root:this is a warning log.
+ERROR:root:this is a error log.
+CRITICAL:root:this is a critical log.
+DEBUG:root:this is a debug log.
+INFO:root:this is a info log.
+WARNING:root:this is a warning log.
+ERROR:root:this is a error log.
+DEBUG:root:this is a debug log.
+INFO:root:this is a info log.
+WARNING:root:this is a warning log.
+ERROR:root:this is a error log.
+CRITICAL:root:this is a critical log.
+DEBUG:root:this is a debug log.
+INFO:root:this is a info log.
+WARNING:root:this is a warning log.
+ERROR:root:this is a error log.
+2020-02-08 14:49:14,237----DEBUG-----this is a debug log.
+2020-02-08 14:49:14,237----INFO-----this is a info log.
+2020-02-08 14:49:14,238----WARNING-----this is a warning log.
+2020-02-08 14:49:14,238----ERROR-----this is a error log.
+2020-02-08 14:49:14,238----CRITICAL-----this is a critical log.
+2020-02-08 14:49:14,238----DEBUG-----this is a debug log.
+2020-02-08 14:49:14,239----INFO-----this is a info log.
+2020-02-08 14:49:14,239----WARNING-----this is a warning log.
+2020-02-08 14:49:14,239----ERROR-----this is a error log.
